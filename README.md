@@ -29,6 +29,14 @@ Uses [fzf](https://github.com/junegunn/fzf) and rifle (provided by the [ranger](
 
 **umnt** unmounts devices/files by unmounting it from the folder previously created in /mnt/ and then deletes the folder.
 
+Example:
+```
+$ mnt /dev/sda1
+Mounting "/dev/sda1" to "/mnt/sda1".
+$ umnt /dev/sda1 **OR** umnt /mnt/sda1 **OR** umnt sda1
+Unmounting "/mnt/sda1".
+```
+
 A demostration of these scripts can be found [here](https://raw.githubusercontent.com/prochazkaml/useful-scripts/master/vids/mnt.mkv). **TBD**
 
 *These scripts use sudo internally, so make sure that you have sudo access!*
