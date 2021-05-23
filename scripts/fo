@@ -1,0 +1,11 @@
+#!/bin/bash
+# Requires fzf and rifle.
+
+file=`fzf`
+
+if [ -z "$file" ]; then
+	echo "No file selected."
+else
+	echo "Opening file \"$file\"."
+	rifle "$file"
+fi

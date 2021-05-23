@@ -1,0 +1,10 @@
+#!/bin/bash
+
+mntdir="/mnt/"
+mntdir+=`basename $1`
+
+echo "Mounting \"$1\" to \"$mntdir\"."
+
+mkdir -p $mntdir
+sudo mount $1 $mntdir
+

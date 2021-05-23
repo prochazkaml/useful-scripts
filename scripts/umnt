@@ -1,0 +1,10 @@
+#!/bin/bash
+
+mntdir="/mnt/"
+mntdir+=`basename $1`
+
+echo "Unmounting \"$mntdir\"."
+
+sudo umount $mntdir
+sudo rm -rf $mntdir
+
