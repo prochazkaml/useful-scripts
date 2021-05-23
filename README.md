@@ -47,6 +47,6 @@ A video demostration of these scripts can be found [here](https://user-images.gi
 
 **midiserver** starts a MIDI server so that other applications (MidiEditor, DOSBox etc.) can use MIDI.
 
-A video demonstation of these scripts can be found [here](https://raw.githubusercontent.com/prochazkaml/useful-scripts/master/vids/midi.mkv). **TBD**
+A video demonstation of these scripts can be found [here](https://user-images.githubusercontent.com/41787099/119263020-ad06c280-bbdd-11eb-89d9-cde947cd98c2.mp4).
 
-Uses [fluidsynth](https://github.com/FluidSynth/fluidsynth) and the [Fluid R3 Soundfont](https://member.keymusician.com/Member/FluidR3_GM/index.html).
+These scripts use [fluidsynth](https://github.com/FluidSynth/fluidsynth) and the [Fluid R3 Soundfont](https://member.keymusician.com/Member/FluidR3_GM/index.html).
