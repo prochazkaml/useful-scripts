@@ -29,7 +29,7 @@ Uses [fzf](https://github.com/junegunn/fzf) and rifle (provided by the [ranger](
 
 **umnt** unmounts devices/files by unmounting it from the folder previously created in /mnt/ and then deletes the folder.
 
-A demostration of this script can be found [here](https://raw.githubusercontent.com/prochazkaml/useful-scripts/master/vids/mnt.mkv). **TBD**
+A demostration of these scripts can be found [here](https://raw.githubusercontent.com/prochazkaml/useful-scripts/master/vids/mnt.mkv). **TBD**
 
 *These scripts use sudo internally, so make sure that you have sudo access!*
 
@@ -39,6 +39,6 @@ A demostration of this script can be found [here](https://raw.githubusercontent.
 
 **midiserver** starts a MIDI server so that other applications (MidiEditor, DOSBox etc.) can use MIDI.
 
-A demostration of this script can be found [here](https://raw.githubusercontent.com/prochazkaml/useful-scripts/master/vids/midi.mkv). **TBD**
+A demostration of these scripts can be found [here](https://raw.githubusercontent.com/prochazkaml/useful-scripts/master/vids/midi.mkv). **TBD**
 
 Uses [fluidsynth](https://github.com/FluidSynth/fluidsynth) and the [Fluid R3 Soundfont](https://member.keymusician.com/Member/FluidR3_GM/index.html).
