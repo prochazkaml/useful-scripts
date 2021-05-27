@@ -14,7 +14,7 @@ Or, if you want to install the scripts just for yourself:
 
 ```
 git clone https://github.com/prochazkaml/useful-scripts
-sudo cp -r useful-scripts/scripts/* ~/.local/bin/
+cp -r useful-scripts/scripts/* ~/.local/bin/
 ```
 
 ## fo
